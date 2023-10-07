@@ -1,0 +1,26 @@
+body{
+    font-family: Helvetica,Arial,sans-serif;
+    Color: White;
+    
+}
+
+.backgr{
+ background-color: saddlebrown;
+}
+
+.Wiki{
+ Width: 100%;
+ background-color: indigo;
+}
+
+.border{
+ background-color: rgb(107, 45, 3);
+border: 3px solid rgb(51, 22, 2);
+margin: 0px;
+padding: 0px;
+}
+
+.img{
+ width: 70px;
+ height: 75px;
+}
